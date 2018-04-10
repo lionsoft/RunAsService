@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<applications>
+    <JetBrainsLicServer>
+        <CmdLine>"D:\Install\VisualStudio\Resharper\JetBrains_License_Server_v1_1\windows\jetbrains_license_server/jetbrains_license_server.exe" runserver localhost:9123</CmdLine>
+        <Description>JetBrains License Server</Description>
+        <StartMode>auto</StartMode>
+<!--
+        <Account>
+            <User>khortitsa\lejbov.e</User>
+            <Password>default</Password>
+        </Account>
+-->
+    </JetBrainsLicServer>
+</applications>
